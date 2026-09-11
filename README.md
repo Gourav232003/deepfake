@@ -48,14 +48,3 @@ npm run dev
 ```
 
 The Vite dev server proxies `/api` to `http://localhost:5000`, so both need to be running.
-
-## Next steps (Phase 5 onward)
-See `Tracker.md` for the live checklist. The immediate next items are: Grad-CAM generation
-for image detection, then wiring video frame extraction and the audio pipeline behind their
-already-defined endpoint shapes.
-# deepfake
-# deepfake
-# deepfake
-# deepfake
-# deepfake
-# deepfake
